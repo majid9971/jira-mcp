@@ -1,0 +1,12 @@
+{
+  "name": "basic-jira-github-mcp",
+  "version": "1.0.0",
+  "description": "Basic Node.js project with Jira and GitHub MCP integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "github": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_TOKEN": "YOUR_GITHUB_TOKEN", 
+        "GITHUB_REPOSITORY": "your-username/your-repo" 
+      }
+    }
+  }
+}
